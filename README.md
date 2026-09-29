@@ -35,6 +35,11 @@ I'm a Mathematician and final-year Computer Science student (Matinf) at Universi
     *   Event-driven backtester built in `Python` processing 5 years of time-series data.
     *   Deterministic simulation with strict look-ahead bias prevention and realistic market friction.
     *   Production-grade CI/CD pipeline enforcing strict type safety (`pyright`) and 100% test coverage (`pytest`).
+* 🍱 [YAMI – Full-Stack Food Delivery & Subscription Platform](https://github.com/git874417/Yami)
+    * Asynchronous REST API built with `Python` (`FastAPI` + `Uvicorn` + `Pydantic`) consumed by a `React 18` SPA using `Axios` and `React Router`.
+    * Robust DAO/VO data-access layer over `Supabase` (`PostgreSQL`) with role-based access control (Admin, Client, Restaurant), subscription tiers, wallet credits, and full order lifecycle management.
+    * Containerized multi-service deployment orchestrated via `Docker` and `Docker Compose`, with interactive analytics dashboards powered by `Chart.js`.
+
 
 ### 📫 How to reach me
 
